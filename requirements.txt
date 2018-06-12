@@ -3,3 +3,4 @@ Flask-Cors==3.0.3
 tensorboard==1.8.0
 tensorflow==1.8.0
 Werkzeug==0.14.1
+gunicorn==19.7.1
